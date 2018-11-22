@@ -1,0 +1,16 @@
+{
+  "name": "webpack-chunkhash-duplicate",
+  "version": "1.0.0",
+  "description": "Example for webpack-contrib/mini-css-extract-plugin#253",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Jarda Snajdr",
+  "license": "GPL",
+  "dependencies": {
+    "css-loader": "^1.0.1",
+    "mini-css-extract-plugin": "^0.4.5",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
